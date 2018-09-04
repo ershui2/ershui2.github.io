@@ -2020,6 +2020,51 @@ span.border.two:after {
 	}
 }
 @media(max-width:414px){
+
+.img-gif {
+  max-width: 100%;
+}
+
+.img-bg{
+  background-image: url('../images/new.jpg');
+  background-size: 100% 100%;
+  height: 100%;
+}
+
+.w3l-agile1 {
+  width: 300px;
+  height: 4485px;
+}
+
+.img-gif1-div{
+  width: 25%;
+  height: 25%;
+  max-height: 300px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 4100px;
+}
+
+.img-gif2-div{
+  width: 25%;
+  height: 25%;
+  max-height: 300px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 4100px;
+}
+
+.img-left {
+  margin: 0 auto;
+  max-height: 300px;
+}
+
+.img-right {
+  margin: 0 auto;
+  max-height: 300px;
+}
+
+
 	span.menu img {
 		width: 91%;
 		margin-top: 8px;
@@ -2094,6 +2139,27 @@ span.border.two:after {
 	}
 }
 @media(max-width:384px){
+
+.div-left {
+  float: left;
+  width: 50%;
+}
+
+.div-right {
+  float: right;
+  width: 50%;
+}
+
+.img-left {
+  margin: 0 auto;
+  max-height: 300px;
+}
+
+.img-right {
+  margin: 0 auto;
+  max-height: 300px;
+}
+
 	ul.year li {
 		margin-top: 10px;
 		font-size: 1em;
@@ -2117,7 +2183,7 @@ span.border.two:after {
 	}
 	.team-gd {
 		padding: 0;
-		width: 100%;
+
 		float: left;
 	}
 	.thumb .team_pos {

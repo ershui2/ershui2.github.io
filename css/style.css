@@ -16,6 +16,13 @@
  .img-right:hover{
   background-color: #bfbfbf;
 }
+
+.img2-left:hover{
+  background-color: #bfbfbf;
+}
+ .img2-right:hover{
+  background-color: #bfbfbf;
+}
 .img-gif1-div{
   width: 25%;
   height: 25%;
@@ -1068,6 +1075,18 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
   margin-right: 50px;
 }
 
+.img2-left {
+  float: left;
+  max-height: 270px;
+  margin-left: 40px;
+}
+
+.img2-right {
+  float: right;
+  max-height: 270px;
+  margin-right: 40px;
+}
+
 }
 
 .portfolio-modal .modal-content h3 {
@@ -1675,6 +1694,18 @@ span.border.two:after {
   float: right;
   max-height: 400px;
 }
+
+.img2-left {
+  float: left;
+  max-height: 200px;
+}
+
+.img2-right {
+  float: right;
+  max-height: 200px;
+}
+
+
 .divcss5 {
   width: 100%;
 }
@@ -2064,6 +2095,15 @@ span.border.two:after {
   max-height: 300px;
 }
 
+.img2-left {
+  float: left;
+  max-height: 150px;
+}
+
+.img2-right {
+  float: right;
+  max-height: 150px;
+}
 
 	span.menu img {
 		width: 91%;
@@ -2158,6 +2198,16 @@ span.border.two:after {
 .img-right {
   margin: 0 auto;
   max-height: 300px;
+}
+
+.img2-left {
+  float: left;
+  max-height: 150px;
+}
+
+.img2-right {
+  float: right;
+  max-height: 150px;
 }
 
 	ul.year li {
